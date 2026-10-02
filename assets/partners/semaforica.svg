@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 90" role="img" aria-labelledby="title">
+  <title id="title">Semaforica</title>
+  <g transform="translate(8 12)">
+    <rect x="0" y="0" width="31" height="66" rx="13" fill="#1c3144"/>
+    <circle cx="15.5" cy="14" r="7" fill="#e34b45"/>
+    <circle cx="15.5" cy="33" r="7" fill="#f2bd39"/>
+    <circle cx="15.5" cy="52" r="7" fill="#33a86b"/>
+  </g>
+  <text x="54" y="57" fill="#1c3144" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700" letter-spacing="1.2">SEMAFORICA</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 90" role="img" aria-labelledby="title">
+  <title id="title">Lacroix</title>
+  <g fill="none" stroke="#083b67" stroke-width="7" stroke-linecap="round">
+    <path d="M46 68c-19 0-32-14-32-30 0-15 12-27 27-27 14 0 25 10 25 23 0 12-9 21-20 21-10 0-17-7-17-16 0-7 6-13 13-13 6 0 11 5 11 10"/>
+  </g>
+  <text x="83" y="58" fill="#083b67" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" letter-spacing="2">LACROIX</text>
+</svg>
